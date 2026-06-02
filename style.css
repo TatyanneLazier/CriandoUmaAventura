@@ -7,8 +7,8 @@ body{
     align-items: center;
     height: 700px;
 }
-passo-0 {
-    background-color: aliceblue;
+passo {
+    background-color: rgb(41, 2, 104);
 }
 header{
     background-color: black;
