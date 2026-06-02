@@ -2,11 +2,9 @@ body{
     background-color: rgb(183, 126, 236);
     color:black;
     font-family: "Bai Jamjuree", sans-serif;
-    display: flex;
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
-    height: 100%;
     width: 100%;          
     min-height: 100vh;    
     margin: 0;
